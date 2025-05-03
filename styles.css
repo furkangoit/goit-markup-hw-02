@@ -1,164 +1,168 @@
 body {
-  font-family: "Roboto", sans-serif;
-  background-color: white;
-  color: #434455;
-  font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    background-color: white;
+    color: #434455;
+    font-size: 16px;
 }
+
 body a {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 header {
-  background-color: #fff;
+    background-color: #fff;
 }
 
 ul {
-  list-style: none;
+    list-style: none;
 }
 
 .logo {
-  text-align: justify;
+    text-align: justify;
 }
 
 header .logo {
-  font-family: "Raleway", sans-serif;
-  color: #2e2f42;
-  vertical-align: middle;
+    font-family: "Raleway", sans-serif;
+    color: #2e2f42;
+    vertical-align: middle;
 }
 
 .logo_web {
-  color: #4d5ae5;
+    color: #4d5ae5;
 }
 
 .menu_nav {
-  font-family: Roboto;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 2%;
-  color: rgba(46, 47, 66, 1);
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: rgba(46, 47, 66, 1);
 }
+
 .menu_nav:hover,
 :active {
-  color: rgba(64, 75, 191, 1);
+    color: rgba(64, 75, 191, 1);
 }
 
 address a {
-  line-height: 24px;
-  letter-spacing: 2%;
-  font-style: normal;
-  color: rgba(67, 68, 85, 1);
+    line-height: 24px;
+    letter-spacing: 2%;
+    font-style: normal;
+    color: rgba(67, 68, 85, 1);
 }
+
 address a:hover,
 :active {
-  color: rgba(64, 75, 191, 1);
+    color: rgba(64, 75, 191, 1);
 }
 
 .hero_image {
-  background-color: #2e2f42;
-  color: #ffffff;
-  text-align: center;
-  height: 660px;
+    background-color: #2e2f42;
+    color: #ffffff;
+    text-align: center;
+    height: 660px;
 }
 
 .hero_image h1 {
-  font-family: Roboto;
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 60px;
-  letter-spacing: 2%;
-  text-align: center;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
 }
 
 .hero_image_button {
-  background-color: #4d5ae5;
-  color: inherit;
-  font-weight: 500;
-  vertical-align: middle;
-  letter-spacing: 4%;
-  line-height: 24px;
-  border-style: none;
-  font-size: 16px;
-  color: #fff;
-  width: 169px;
-  height: 56px;
+    background-color: #4d5ae5;
+    color: inherit;
+    font-weight: 500;
+    vertical-align: middle;
+    letter-spacing: 4%;
+    line-height: 24px;
+    border-style: none;
+    font-size: 16px;
+    color: #fff;
+    width: 169px;
+    height: 56px;
 }
 
 .hero_image_button:hover {
-  cursor: pointer;
-  background-color: rgba(64, 75, 191, 1);
+    cursor: pointer;
+    background-color: rgba(64, 75, 191, 1);
 }
 
 .future_title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2e2f42;
 }
 
 .future_text {
-  font-size: 16px;
-  line-height: 24px;
-  color: rgba(67, 68, 85, 1);
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(67, 68, 85, 1);
 }
 
 .section_2 {
-  background-color: rgba(244, 244, 253, 1);
+    background-color: rgba(244, 244, 253, 1);
 }
 
 .section_2 li {
-  width: 264px;
+    width: 264px;
 }
 
 .section_2_text {
-  background-color: white;
+    background-color: white;
 }
+
 .section_2_name {
-  color: rgba(46, 47, 66, 1);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  text-align: center;
+    color: rgba(46, 47, 66, 1);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
 }
 
 .section_2_job_title {
-  line-height: 24px;
-  text-align: center;
-  color: rgba(67, 68, 85, 1);
+    line-height: 24px;
+    text-align: center;
+    color: rgba(67, 68, 85, 1);
 }
 
 .section_3_title {
-  color: rgba(46, 47, 66, 1);
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 40px;
-  text-align: center;
+    color: rgba(46, 47, 66, 1);
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
 }
 
 .section_3_app_name {
-  color: rgba(46, 47, 66, 1);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
+    color: rgba(46, 47, 66, 1);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
 }
 
 .section_3_app_ctg {
-  color: rgba(67, 68, 85, 1);
-  line-height: 24px;
+    color: rgba(67, 68, 85, 1);
+    line-height: 24px;
 }
 
 footer {
-  background-color: rgba(46, 47, 66, 1);
-  color: rgba(244, 244, 253, 1);
+    background-color: rgba(46, 47, 66, 1);
+    color: rgba(244, 244, 253, 1);
 }
 
 footer p {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 2%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
 }
 
 footer .logo {
-  color: rgba(244, 244, 253, 1);
+    color: rgba(244, 244, 253, 1);
 }
